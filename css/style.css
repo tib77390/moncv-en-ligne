@@ -1,0 +1,72 @@
+
+
+
+body{
+    background-color: beige;
+    font-family: 'Merriweather', serif;
+}
+
+
+.contenu{
+width: 700px; ;
+margin: 10px auto;
+
+
+
+}
+
+div.details img {
+border-radius: 50%;
+    float: left;
+    height: 150px;
+    
+    
+    }
+.details{
+height: 150px;
+/* background-color: pink; */
+}
+
+
+
+.liste-details{
+float: left;
+list-style: none;
+margin-top: 30px;
+
+/* background-color: brown; */
+
+}
+
+
+
+.cv-section{
+
+/* background-color: bisque; */
+padding-bottom: 20px;
+    
+}
+
+h1,h2{
+
+    text-align: center;
+    
+}
+
+hr{
+    border-color: lightblue;
+   border-spacing: 50px;
+}
+
+p{
+margin: 0px;
+
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+
+
